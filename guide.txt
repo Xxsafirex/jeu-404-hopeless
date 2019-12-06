@@ -1,0 +1,8 @@
+lancer le fichier index.html dans un navigateur web
+le jeu se lance tout seul,
+pour jouer, clicker sur la page (pour avoir le focus)
+et appuyer les touches correspondantes aux touches affichées
+
+
+membre:
+chatin eudes
